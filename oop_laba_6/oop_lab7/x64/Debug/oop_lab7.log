@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Maxim\source\repos\oop_lab7\oop_lab7\Source.cpp(8,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  oop_lab7.vcxproj -> C:\Users\Maxim\source\repos\oop_lab7\x64\Debug\oop_lab7.exe
