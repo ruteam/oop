@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project7.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+  Project7.vcxproj -> C:\Users\Maxim\source\repos\Project7\x64\Debug\FazzyNumber.exe
